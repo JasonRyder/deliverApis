@@ -1,44 +1,8 @@
-[
-  {
-    "id": 1,
-    "firstName": "Rohit",
-    "secondName": "Mehta",
-    "emailID": "jasonryder@hotspot.com"
-  },
-  {
-    "id": 2,
-    "firstName": "Jason",
-    "secondName": "Mehta",
-    "emailID": "jasonryder@hotspot.com"
-  },
-  {
-    "id": 3,
-    "firstName": "Jason",
-    "secondName": "Ryder",
-    "emailID": "jasonryder@hotspot.com"
-  },
-  {
-    "id": 4,
-    "firstName": "Rohit",
-    "secondName": "Ryder",
-    "emailID": "jasonryder@hotspot.com"
-  },
-  {
-    "id": 5,
-    "firstName": "Rishabh",
-    "secondName": "Dutt",
-    "emailID": "jasonryder@hotspot.com"
-  },
-  {
-    "id": 6,
-    "firstName": "Rishabh",
-    "secondName": "Dutt Sharma",
-    "emailID": "jasonryder@hotspot.com"
-  },
-  {
-    "id": 7,
-    "firstName": "Rishabh",
-    "secondName": "Sharma",
-    "emailID": "jasonryder@hotspot.com"
-  }
-]
+{
+  "users" : [
+    { "id" : 1, "UserName" : "Rohit Mehta" , "Password" : "Android@123" , "ProfilePic" : "https://www.eguardtech.com/wp-content/uploads/2018/08/Network-Profile.png"},
+    { "id" : 2, "UserName" : "Jason Ryder" , "Password" : "Android@234" , "ProfilePic" : "https://www.eguardtech.com/wp-content/uploads/2018/08/Network-Profile.png"},
+    { "id" : 3, "UserName" : "Rishabh Dutt Sharma" , "Password" : "Android@345" , "ProfilePic" : "https://www.eguardtech.com/wp-content/uploads/2018/08/Network-Profile.png"},
+    { "id" : 4, "UserName" : "Akshay Kumar" , "Password" : "Android@666" , "ProfilePic" : "https://www.eguardtech.com/wp-content/uploads/2018/08/Network-Profile.png"},
+    ]
+}
